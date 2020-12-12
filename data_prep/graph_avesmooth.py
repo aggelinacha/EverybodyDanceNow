@@ -89,7 +89,7 @@ if not os.path.exists(savedir + '/debug'):
 	os.makedirs(savedir + '/debug')
 
 print('----------------- Loading Frames -----------------')
-frames = os.listdir(frames_dir)
+frames = sorted(os.listdir(frames_dir))
 print('----------------- All Loaded -----------------')
 
 pose_window = []
@@ -121,6 +121,7 @@ while n <= end:
 			print('unable to read keypoints file')
 			import sys
 			sys.exit(0)
+        posepts = map_25_to_23(posepts)
 
 	if not (len(posepts) in poselen):
 		print "EMPTY"

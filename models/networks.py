@@ -181,14 +181,25 @@ class LocalEnhancer(nn.Module):
         
         self.downsample = nn.AvgPool2d(3, stride=2, padding=[1, 1], count_include_pad=False)
 
-    def forward(self, input): 
+    def forward(self, input, layers=[], encode_only=False): 
         ### create input pyramid
+        feats = []
         input_downsampled = [input]
         for i in range(self.n_local_enhancers):
             input_downsampled.append(self.downsample(input_downsampled[-1]))
-
+        
         ### output at coarest level
-        output_prev = self.model(input_downsampled[-1])        
+        output_prev = self.model(input_downsampled[-1])
+        
+        if encode_only:
+            feat = input_downsampled[-1]
+            for layer_id, layer in enumerate(self.model1_1):
+                feat = layer(feat)
+                if layer_id in [0, 4, 6]:
+                    feats.append(feat)
+            feats.append(output_prev)
+            return feats
+        
         ### build up one layer at a time
         for n_local_enhancers in range(1, self.n_local_enhancers+1):
             model_downsample = getattr(self, 'model'+str(n_local_enhancers)+'_1')
@@ -224,9 +235,32 @@ class GlobalGenerator(nn.Module):
         model += [nn.ReflectionPad2d(3), nn.Conv2d(ngf, output_nc, kernel_size=7, padding=0), nn.Tanh()]        
         self.model = nn.Sequential(*model)
             
-    def forward(self, input):
-        return self.model(input)             
-        
+    #def forward(self, input):
+    #    return self.model(input)             
+    def forward(self, input, layers=[], encode_only=False):
+         if -1 in layers:
+             layers.append(len(self.model))
+         if len(layers) > 0:
+             feat = input
+             feats = []
+             for layer_id, layer in enumerate(self.model):
+                 # print(layer_id, layer)
+                 feat = layer(feat)
+                 if layer_id in layers:
+                     # print("%d: adding the output of %s %d" % (layer_id, layer.__class__.__name__, feat.size(1)))
+                     feats.append(feat)
+                 else:
+                     # print("%d: skipping %s %d" % (layer_id, layer.__class__.__name__, feat.size(1)))
+                     pass
+                 if layer_id == layers[-1] and encode_only:
+                     # print('encoder only return features')
+                     return feats  # return intermediate features alone; stop in the last layers
+             return feat, feats  # return both output and intermediate features
+         else:
+             """Standard forward"""
+             fake = self.model(input)
+             return fake
+
 # Define a resnet block
 class ResnetBlock(nn.Module):
     def __init__(self, dim, padding_type, norm_layer, activation=nn.ReLU(True), use_dropout=False):
@@ -423,11 +457,34 @@ class UnetGenerator(nn.Module):
 
         self.model = unet_block
 
-    def forward(self, input):
-        # if self.gpu_ids and isinstance(input.data, torch.cuda.FloatTensor):
-        #     return nn.parallel.data_parallel(self.model, input, self.gpu_ids)
-        # else:
-        return self.model(input)
+#    def forward(self, input):
+#        # if self.gpu_ids and isinstance(input.data, torch.cuda.FloatTensor):
+#        #     return nn.parallel.data_parallel(self.model, input, self.gpu_ids)
+#        # else:
+#        return self.model(input)
+    def forward(self, input, layers=[], encode_only=False):
+        if -1 in layers:
+            layers.append(len(self.model))
+        if len(layers) > 0:
+            feat = input
+            feats = []
+            for layer_id, layer in enumerate(self.model):
+                print(layer_id, layer)
+                feat = layer(feat)
+                if layer_id in layers:
+                    print("%d: adding the output of %s %d" % (layer_id, layer.__class__.__name__, feat.size(1)))
+                    feats.append(feat)
+                else:
+                    print("%d: skipping %s %d" % (layer_id, layer.__class__.__name__, feat.size(1)))
+                    pass
+                if layer_id == layers[-1] and encode_only:
+                    # print('encoder only return features')
+                    return feats  # return intermediate features alone; stop in the last layers
+            return feat, feats  # return both output and intermediate features
+        else:
+            """Standard forward"""
+            fake = self.model(input)
+            return fake
 
 
 # Defines the submodule with skip connection.

@@ -40,7 +40,6 @@ for i, data in enumerate(dataset):
     generated = model.inference(data['label'], previous_cond, data['face_coords'])
 
     previous_cond = generated.data
-
     visuals = OrderedDict([('synthesized_image', util.tensor2im(generated.data[0]))])
     img_path = data['path']
     print('process image... %s' % img_path)

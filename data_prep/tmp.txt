@@ -1,0 +1,1737 @@
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003892_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004762_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003892_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005052_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000001.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000002.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000003.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000004.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000005.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000006.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000007.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000008.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000009.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000010.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000011.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000012.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000013.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000014.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000015.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000016.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000017.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000018.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000019.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000020.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000021.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000511.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000526.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002794.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002801.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002802.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002803.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002804.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002805.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002806.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002807.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002808.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002809.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002810.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002811.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002812.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002813.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002814.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002894.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002932.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002933.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002934.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002935.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002936.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002937.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003273.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003555.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003610.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003892 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003892.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003933.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003951.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003952.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003953.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003954.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004030.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004076.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004077.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004078.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004321.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004322.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004344.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004496.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004724.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004725.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004727.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004728.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004729.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004738.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004762 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004762.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004766.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004949.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005050.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005051.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005052 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005052.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005053.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005126.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005167.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005209.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005211.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005407.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005409.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005410.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005417.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005418.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005420.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005435.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005436.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005457.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005458.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005459.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005460.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005462.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005463.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005473.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005476.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005479.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005582.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000001.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005052_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005052_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005052_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000001.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005052_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005052_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004762_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005052_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000001.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003892_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000001.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003892_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003892_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004762_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003892_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000001.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000002.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000003.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000004.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000005.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000006.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000007.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000008.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000009.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000010.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000011.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000012.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000013.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000014.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000015.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000016.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000017.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000018.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000019.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000020.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000021.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000511.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000001.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000002.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000003.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000004.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000005.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000006.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000007.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000008.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000009.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000010.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000011.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000012.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000013.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000014.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000015.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000016.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000017.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000018.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000019.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000020.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000021.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003892_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004762_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000001.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000002.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000003.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000004.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000005.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000006.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000007.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000008.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000009.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000010.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000011.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000012.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000013.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000014.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000015.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000016.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000017.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000018.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000019.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000020.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000021.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004762_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024167_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024171_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000001.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000002.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000003.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000004.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000005.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000006.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000007.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000008.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000009.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000010.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000011.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000012.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000013.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000014.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000015.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000016.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000017.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000018.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000019.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000020.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000021.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005052_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024563_pose.yml
+/data/add_disk0/aggelina/datasets/content/subject4/train/keypoints/frame024175_pose.yml
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000001 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000001.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000002 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000002.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000003 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000003.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000004 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000004.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000005 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000005.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000006 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000006.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000007 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000007.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000008 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000008.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000009 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000009.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000010 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000010.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000011 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000011.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000012 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000012.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000013 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000013.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000014 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000014.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000015 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000015.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000016 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000016.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000017 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000017.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000018 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000018.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000019 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000019.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000020 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000020.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000021 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000021.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000511 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000511.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame000526 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame000526.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002794 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002794.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002801 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002801.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002802 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002802.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002803 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002803.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002804 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002804.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002805 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002805.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002806 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002806.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002807 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002807.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002808 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002808.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002809 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002809.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002810 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002810.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002811 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002811.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002812 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002812.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002813 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002813.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002814 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002814.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002894 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002894.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002932 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002932.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002933 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002933.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002934 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002934.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002935 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002935.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002936 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002936.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame002937 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame002937.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003273 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003273.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003555 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003555.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003610 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003610.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003892 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003892.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003933 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003933.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003951 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003951.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003952 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003952.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003953 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003953.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame003954 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame003954.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004030 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004030.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004076 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004076.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004077 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004077.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004078 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004078.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004321 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004321.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004322 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004322.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004344 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004344.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004496 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004496.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004724 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004724.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004725 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004725.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004727 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004727.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004728 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004728.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004729 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004729.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004738 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004738.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004762 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004762.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004766 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004766.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame004949 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame004949.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005050 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005050.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005051 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005051.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005052 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005052.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005053 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005053.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005126 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005126.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005167 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005167.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005209 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005209.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005211 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005211.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005407 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005407.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005409 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005409.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005410 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005410.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005417 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005417.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005418 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005418.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005420 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005420.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005435 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005435.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005436 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005436.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005457 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005457.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005458 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005458.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005459 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005459.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005460 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005460.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005462 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005462.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005463 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005463.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005473 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005473.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005476 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005476.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005479 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005479.png
+/data/add_disk0/aggelina/datasets/content/source/keypoints/frame005582 /data/add_disk0/aggelina/datasets/content/source/original_frames/frame005582.png

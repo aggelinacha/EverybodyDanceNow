@@ -8,7 +8,9 @@ from torch.autograd import Variable
 import util.util as util
 from util.image_pool import ImagePool
 from .base_model import BaseModel
+from .patchnce import PatchNCELoss
 from . import networks
+from . import networks_cut
 
 class Pix2PixHDModel(BaseModel):
     def name(self):
@@ -19,6 +21,7 @@ class Pix2PixHDModel(BaseModel):
         if opt.resize_or_crop != 'none': # when training at full res this causes OOM
             torch.backends.cudnn.benchmark = True
         self.isTrain = opt.isTrain
+        self.device = "cuda"
 
         ##### define networks        
         # Generator network
@@ -59,6 +62,10 @@ class Pix2PixHDModel(BaseModel):
                                       n_blocks_local=0, norm=opt.norm, gpu_ids=self.gpu_ids)
             else:
                 raise('face generator not implemented!')
+
+        # MLP for NCE
+        no_dropout = True
+        self.netF = networks_cut.define_F(netG_input_nc, 'mlp_sample', 'instance', not no_dropout, 'xavier', 0.02, False, self.gpu_ids, opt)
             
         print('---------- Networks initialized -------------')
 
@@ -87,9 +94,17 @@ class Pix2PixHDModel(BaseModel):
                 self.criterionVGG = networks.VGGLoss(self.gpu_ids)
             if opt.use_l1:
                 self.criterionL1 = torch.nn.L1Loss()
-        
+
+            if self.opt.nce:
+                self.criterionNCE = []
+                self.nce_layers = [0,4,8,12,16]
+                for nce_layer in self.nce_layers:
+                    self.criterionNCE.append(PatchNCELoss().to(self.device))
+
             # Loss names
             self.loss_names = ['G_GAN', 'G_GAN_Feat', 'G_VGG', 'D_real', 'D_fake', 'G_GANface', 'D_realface', 'D_fakeface']
+            if self.opt.nce:
+                self.loss_names.extend(['NCE', 'NCE_Y'])
 
             # initialize optimizers
             # optimizer G
@@ -124,6 +139,7 @@ class Pix2PixHDModel(BaseModel):
                     params = list(self.netD.parameters())                  
 
             self.optimizer_D = torch.optim.Adam(params, lr=opt.lr, betas=(opt.beta1, 0.999))
+
 
     def encode_input(self, label_map, real_image=None, next_label=None, next_image=None, zeroshere=None, infer=False):
 
@@ -188,7 +204,7 @@ class Pix2PixHDModel(BaseModel):
 
         # Fake Generation I_0
         input_concat = torch.cat((input_label, zeroshere), dim=1) 
-
+        real_concat = torch.cat((real_image, zeroshere), dim=1)
         #face residual for I_0
         face_residual_0 = 0
         if self.opt.face_generator:
@@ -199,10 +215,12 @@ class Pix2PixHDModel(BaseModel):
             I_0[:, :, miny:maxy, minx:maxx] = initial_I_0[:, :, miny:maxy, minx:maxx] + face_residual_0
         else:
             I_0 = self.netG.forward(input_concat)
+        idt_0 = self.netG.forward(real_concat)
+        face_idt_0 = idt_0[:, :, miny:maxy, minx:maxx]
 
 
         input_concat1 = torch.cat((next_label, I_0), dim=1)
-
+        real_concat1 = torch.cat((next_image, idt_0), dim=1)
         #face residual for I_1
         face_residual_1 = 0
         if self.opt.face_generator:
@@ -213,6 +231,8 @@ class Pix2PixHDModel(BaseModel):
             I_1[:, :, miny:maxy, minx:maxx] = initial_I_1[:, :, miny:maxy, minx:maxx] + face_residual_1
         else:
             I_1 = self.netG.forward(input_concat1)
+        idt_1 = self.netG.forward(real_concat1)
+        face_idt_1 = idt_1[:, :, miny:maxy, minx:maxx]
 
         loss_D_fake_face = loss_D_real_face = loss_G_GAN_face = 0
         fake_face_0 = fake_face_1 = real_face_0 = real_face_1 = 0
@@ -287,39 +307,75 @@ class Pix2PixHDModel(BaseModel):
                 loss_G_VGG += 0.5 * self.criterionVGG(fake_face_0, real_face_0) * self.opt.lambda_feat
                 loss_G_VGG += 0.5 * self.criterionVGG(fake_face_1, real_face_1) * self.opt.lambda_feat
 
+        loss_NCE, loss_NCE_Y = 0, 0
+        if self.opt.nce:      
+            fake_concat = torch.cat((I_1, I_0), dim=1)
+            real_concat = torch.cat((next_image, real_image), dim=1)
+            idt_concat = torch.cat((idt_1, idt_0), dim=1)
+            input_concat = torch.cat((next_label, input_label), dim=1)
+            loss_NCE = self.calculate_NCE_loss(input_concat, fake_concat)
+            loss_NCE_Y = self.calculate_NCE_loss(real_concat, idt_concat)
+            #if self.opt.face_discrim:
+            #    fake_face_concat = torch.cat((fake_face_1, fake_face_0), dim=1)
+            #    real_face_concat = torch.cat((real_face_1, real_face_0), dim=1)
+            #    input_face_concat = torch.cat((face_label_1, face_label_0), dim=1)
+            #    idt_face_concat = torch.cat((face_idt_1, face_idt_0), dim=1)
+            #    loss_NCE += self.calculate_NCE_loss(input_face_concat, fake_face_concat)
+            #    loss_NCE_Y += self.calculate_NCE_loss(real_face_concat, idt_face_concat)
+
         if self.opt.use_l1:
             loss_G_VGG += (self.criterionL1(I_1, next_image)) * self.opt.lambda_A
         
         # Only return the fake_B image if necessary to save BW
         return [ [ loss_G_GAN, loss_G_GAN_Feat, loss_G_VGG, loss_D_real, loss_D_fake, \
-                    loss_G_GAN_face, loss_D_real_face,  loss_D_fake_face], \
+                    loss_G_GAN_face, loss_D_real_face,  loss_D_fake_face, loss_NCE, loss_NCE_Y ], \
                         None if not infer else [torch.cat((I_0, I_1), dim=3), fake_face, face_residual, initial_I_0] ]
+
+    def calculate_NCE_loss(self, src, tgt):
+        n_layers = len(self.nce_layers)
+        feat_q = self.netG(tgt, self.nce_layers, encode_only=True)
+
+        #if self.opt.flip_equivariance and self.flipped_for_equivariance:
+        #    feat_q = [torch.flip(fq, [3]) for fq in feat_q]
+        num_patches = 256
+        feat_k = self.netG(src, self.nce_layers, encode_only=True)
+        feat_k_pool, sample_ids = self.netF(feat_k, num_patches, None)
+        feat_q_pool, _ = self.netF(feat_q, num_patches, sample_ids)
+
+        total_nce_loss = 0.0
+        for f_q, f_k, crit, nce_layer in zip(feat_q_pool, feat_k_pool, self.criterionNCE, self.nce_layers):
+             loss = crit(f_q, f_k) * 1 #self.opt.lambda_NCE
+             total_nce_loss += loss.mean()
+
+        return total_nce_loss / n_layers
+
 
     def inference(self, label, prevouts, face_coords):
 
-        # Encode Inputs        
-        input_label, _, _, _, prevouts = self.encode_input(Variable(label), zeroshere=Variable(prevouts), infer=True)
-
-        if self.opt.face_generator:
-            miny = face_coords[0][0]
-            maxy = face_coords[0][1]
-            minx = face_coords[0][2]
-            maxx = face_coords[0][3]
-
-        """ new face """
-        I_0 = 0
-        # Fake Generation
-
-        input_concat = torch.cat((input_label, prevouts), dim=1) 
-        initial_I_0 = self.netG.forward(input_concat)
-
-        if self.opt.face_generator:
-            face_label_0 = input_label[:, :, miny:maxy, minx:maxx]
-            face_residual_0 = self.faceGen.forward(torch.cat((face_label_0, initial_I_0[:, :, miny:maxy, minx:maxx]), dim=1))
-            I_0 = initial_I_0.clone()
-            I_0[:, :, miny:maxy, minx:maxx] = initial_I_0[:, :, miny:maxy, minx:maxx] + face_residual_0
-            fake_face_0 = I_0[:, :, miny:maxy, minx:maxx]
-            return I_0
+        with torch.no_grad():
+            # Encode Inputs        
+            input_label, _, _, _, prevouts = self.encode_input(Variable(label), zeroshere=Variable(prevouts), infer=True)
+    
+            if self.opt.face_generator:
+                miny = face_coords[0][0]
+                maxy = face_coords[0][1]
+                minx = face_coords[0][2]
+                maxx = face_coords[0][3]
+    
+            """ new face """
+            I_0 = 0
+            # Fake Generation
+    
+            input_concat = torch.cat((input_label, prevouts), dim=1) 
+            initial_I_0 = self.netG.forward(input_concat)
+    
+            if self.opt.face_generator:
+                face_label_0 = input_label[:, :, miny:maxy, minx:maxx]
+                face_residual_0 = self.faceGen.forward(torch.cat((face_label_0, initial_I_0[:, :, miny:maxy, minx:maxx]), dim=1))
+                I_0 = initial_I_0.clone()
+                I_0[:, :, miny:maxy, minx:maxx] = initial_I_0[:, :, miny:maxy, minx:maxx] + face_residual_0
+                fake_face_0 = I_0[:, :, miny:maxy, minx:maxx]
+                return I_0
         return initial_I_0
 
     def get_edges(self, t):

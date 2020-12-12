@@ -55,343 +55,370 @@ parser.add_argument('--format', type=str, default='json', help='file format for 
 
 def get_keypoints_stats(mypath, myshape, spread, startname = "frame", stophere=20000):
 
-	filenames = os.listdir(mypath)
+    filenames = os.listdir(mypath)
 
-	maxheight = 0
-	mintoe = myshape[0]
-	maxtoe = 0
-	count = 0
-	avemintoe = 0
-	minmaxtoe = myshape[0]
-	getmediantiptoe = []
-	heights = []
-	tiptoe_to_height = {}
-	ok = True
+    maxheight = 0
+    mintoe = myshape[0]
+    maxtoe = 0
+    count = 0
+    avemintoe = 0
+    minmaxtoe = myshape[0]
+    getmediantiptoe = []
+    heights = []
+    tiptoe_to_height = {}
+    ok = True
+    
+    files_pose_yml = [f for f in filenames if "_pose.yml" in f]
+    
+    while ok:
+        mynum = np.random.randint(low=spread[0], high=spread[1])
+        strmynum = '%06d' % mynum
+        f_yaml = startname + strmynum + "_pose.yml"
+        f_json = startname + strmynum + "_keypoints.json"
 
-	while ok:
-		mynum = np.random.randint(low=spread[0], high=spread[1])
-		strmynum = '%06d' % mynum
-		f_yaml = startname + strmynum + "_pose.yml"
-		f_json = startname + strmynum + "_keypoints.json"
+        f_yaml = files_pose_yml[mynum]
 
-		if os.path.isfile(os.path.join(mypath, f_yaml)) or os.path.isfile(os.path.join(mypath, f_json)):
-			key_name = os.path.join(mypath, f_yaml)
+        if os.path.isfile(os.path.join(mypath, f_yaml)) or os.path.isfile(os.path.join(mypath, f_json)):
+            key_name = os.path.join(mypath, f_yaml)
 
-			posepts = []
+            posepts = []
 
-			### try yaml
-			posepts = readkeypointsfile(key_name)
-			if posepts is None: ## try json
-				key_name = os.path.join(mypath, f_json)
-				posepts, _, _, _ = readkeypointsfile(key_name)
-				if posepts is None:
-					print('unable to read keypoints file')
-					import sys
-					sys.exit(0)
+            ### try yaml
+            posepts = readkeypointsfile(key_name)
+            if posepts is None: ## try json
+                key_name = os.path.join(mypath, f_json)
+                posepts, _, _, _ = readkeypointsfile(key_name)
+                if posepts is None:
+                    print('unable to read keypoints file')
+                    import sys
+                    sys.exit(0)
 
-			if len(posepts) != poselen:
-				print "EMPTY stats", key_name, len(posepts)
-				continue
-			else:
-				check_me = get_pose_stats(posepts)
-				if check_me:
-					height, min_tip_toe, max_tip_toe = check_me
-					maxheight = max(maxheight, height)
-					heights += [height]
-					mintoe = min(mintoe, min_tip_toe)
-					maxtoe = max(maxtoe, max_tip_toe)
-					avemintoe += max_tip_toe
-					minmaxtoe = min(max_tip_toe, minmaxtoe)
-					getmediantiptoe += [max_tip_toe]
-					count += 1
+            posepts = map_25_to_23(posepts)
 
-					if max_tip_toe not in tiptoe_to_height:
-						tiptoe_to_height[max_tip_toe] = [height]
-					else:
-						tiptoe_to_height[max_tip_toe] += [height]
-		else:
-			print "cannot find file " + os.path.join(mypath, f)
-		if count % 5000 == 0:
-			print count
-		if count >= stophere:
-			ok = False
-		if count >= spread[1] - spread[0]:
-			ok = False
+            if len(posepts) != poselen:
+                print("EMPTY stats", key_name, len(posepts))
+                with open("tmp.txt", "a") as f_tmp:
+                    f_tmp.write(key_name + "\n")                    
+                continue
+            else:
+                check_me = get_pose_stats(posepts)
+                if check_me:
+                    height, min_tip_toe, max_tip_toe = check_me
+                    maxheight = max(maxheight, height)
+                    heights += [height]
+                    mintoe = min(mintoe, min_tip_toe)
+                    maxtoe = max(maxtoe, max_tip_toe)
+                    avemintoe += max_tip_toe
+                    minmaxtoe = min(max_tip_toe, minmaxtoe)
+                    getmediantiptoe += [max_tip_toe]
+                    count += 1
 
-	avemintoe = avemintoe / float(count)
-	mediantiptoe = np.median(getmediantiptoe)
+                    if max_tip_toe not in tiptoe_to_height:
+                        tiptoe_to_height[max_tip_toe] = [height]
+                    else:
+                        tiptoe_to_height[max_tip_toe] += [height]
+        else:
+            print("cannot find file " + os.path.join(mypath, f))
+        if count % 5000 == 0:
+            print(count)
+        if count >= stophere:
+            ok = False
+        if count >= spread[1] - spread[0]:
+            ok = False
 
-	return maxheight, mintoe, maxtoe, avemintoe, minmaxtoe, mediantiptoe, getmediantiptoe, tiptoe_to_height
+    avemintoe = avemintoe / float(count)
+    mediantiptoe = np.median(getmediantiptoe)
+
+    return maxheight, mintoe, maxtoe, avemintoe, minmaxtoe, mediantiptoe, getmediantiptoe, tiptoe_to_height
 
 
 def get_minmax_scales(tiptoe_to_height0, tiptoe_to_height1, translation, frac):
-	sorted_tiptoes0 = tiptoe_to_height0.keys().sort()
+    sorted_tiptoes0 = tiptoe_to_height0.keys().sort()
 
-	m_maxtoe, m_horizon = translation[0]
-	t_maxtoe, t_horizon = translation[1]
+    m_maxtoe, m_horizon = translation[0]
+    t_maxtoe, t_horizon = translation[1]
 
-	range0 = (m_maxtoe - m_horizon)*frac
-	range1 = (t_maxtoe - t_horizon)*frac
+    range0 = (m_maxtoe - m_horizon)*frac
+    range1 = (t_maxtoe - t_horizon)*frac
 
-	toe_keys0 = filter(lambda x: abs(x - m_maxtoe) <= range0, tiptoe_to_height0.keys())
-	horizon_keys0 = filter(lambda x: abs(x - m_horizon) <= range0, tiptoe_to_height0.keys())
+    toe_keys0 = filter(lambda x: abs(x - m_maxtoe) <= range0, tiptoe_to_height0.keys())
+    horizon_keys0 = filter(lambda x: abs(x - m_horizon) <= range0, tiptoe_to_height0.keys())
 
-	max_heightclose0 = 0
-	for key in toe_keys0:
-		cur_h = max(tiptoe_to_height0[key])
-		if cur_h > max_heightclose0:
-			max_heightclose0 = cur_h
+    max_heightclose0 = 0
+    for key in toe_keys0:
+        cur_h = max(tiptoe_to_height0[key])
+        if cur_h > max_heightclose0:
+            max_heightclose0 = cur_h
 
-	max_heightfar0 = 0
-	for key in horizon_keys0:
-		cur_h = max(tiptoe_to_height0[key])
-		if cur_h > max_heightfar0:
-			max_heightfar0 = cur_h
+    max_heightfar0 = 0
+    for key in horizon_keys0:
+        cur_h = max(tiptoe_to_height0[key])
+        if cur_h > max_heightfar0:
+            max_heightfar0 = cur_h
 
-	toe_keys1 = filter(lambda x: abs(x - t_maxtoe) <= range1, tiptoe_to_height1.keys())
-	horizon_keys1 = filter(lambda x: abs(x - t_horizon) <= range1, tiptoe_to_height1.keys())
+    toe_keys1 = filter(lambda x: abs(x - t_maxtoe) <= range1, tiptoe_to_height1.keys())
+    horizon_keys1 = filter(lambda x: abs(x - t_horizon) <= range1, tiptoe_to_height1.keys())
 
-	max_heightclose1 = 0
-	for key in toe_keys1:
-		cur_h = max(tiptoe_to_height1[key])
-		if cur_h > max_heightclose1:
-			max_heightclose1 = cur_h
+    max_heightclose1 = 0
+    for key in toe_keys1:
+        cur_h = max(tiptoe_to_height1[key])
+        if cur_h > max_heightclose1:
+            max_heightclose1 = cur_h
 
-	max_heightfar1 = 0
-	for key in horizon_keys1:
-		cur_h = max(tiptoe_to_height1[key])
-		if cur_h > max_heightfar1:
-			max_heightfar1 = cur_h
+    max_heightfar1 = 0
+    for key in horizon_keys1:
+        cur_h = max(tiptoe_to_height1[key])
+        if cur_h > max_heightfar1:
+            max_heightfar1 = cur_h
 
-	print "far"
-	print max_heightfar0, max_heightfar1
-	print "near"
-	print max_heightclose0, max_heightclose1
+    print("far")
+    print(max_heightfar0, max_heightfar1)
+    print("near")
+    print(max_heightclose0, max_heightclose1)
 
-	max_all0 = max(tiptoe_to_height0.values())[0]
-	max_all1 = max(tiptoe_to_height1.values())[0]
+    max_all0 = max(tiptoe_to_height0.values())[0]
+    max_all1 = max(tiptoe_to_height1.values())[0]
 
-	if max_all0 - max_heightclose0 > 0.1*max_all0:
-		print "reset max_heightclose0"
-		max_heightclose0 = max_all0
+    if max_all0 - max_heightclose0 > 0.1*max_all0:
+        print("reset max_heightclose0")
+        max_heightclose0 = max_all0
 
-	if max_all1 - max_heightclose1 > 0.1*max_all1:
-		print "reset max_heightclose1"
-		max_heightclose1 = max_all1
+    if max_all1 - max_heightclose1 > 0.1*max_all1:
+        print("reset max_heightclose1")
+        max_heightclose1 = max_all1
 
-	scale_close = max_heightclose0 / float(max_heightclose1)
-	scale_far = max_heightfar0 / float(max_heightfar1)
+    scale_close = max_heightclose0 / float(max_heightclose1)
+    scale_far = max_heightfar0 / float(max_heightfar1)
 
-	return scale_close, scale_far
+    return scale_close, scale_far
 
 def apply_transformation(keypoints, translation, scale):
-	i = 0
-	while i < len(keypoints):
-		keypoints[i] = (keypoints[i] * scale) + translation[0]
-		keypoints[i+1] = (keypoints[i+1] * scale) + translation[1]
-		i += 3
-	return keypoints
+    i = 0
+    while i < len(keypoints):
+        keypoints[i] = (keypoints[i] * scale) + translation[0]
+        keypoints[i+1] = (keypoints[i+1] * scale) + translation[1]
+        i += 3
+    return keypoints
 
 def calculate_translation(t_coord, translation, scaleyy):
-	m_maxtoe, m_horizon = translation[0]
-	t_maxtoe, t_horizon = translation[1]
+    m_maxtoe, m_horizon = translation[0]
+    t_maxtoe, t_horizon = translation[1]
 
-	percentage = (t_coord - t_horizon) / float(t_maxtoe - t_horizon)
-	m_coord = m_horizon + percentage*float(m_maxtoe - m_horizon)
+    percentage = (t_coord - t_horizon) / float(t_maxtoe - t_horizon)
+    m_coord = m_horizon + percentage*float(m_maxtoe - m_horizon)
 
-	scale_interp = scaleyy[1] + percentage*float(scaleyy[0] - scaleyy[1])
+    scale_interp = scaleyy[1] + percentage*float(scaleyy[0] - scaleyy[1])
 
-	return m_coord - t_coord, scale_interp
+    return m_coord - t_coord, scale_interp
 
 def transform_interp(mypath, scaleyy, translation, myshape, savedir, spread_m, spread_t, dir_facepts="", framesdir="", numkeypoints=0, startname='frame'):
-	start = spread_t[0]
-	end = spread_t[1]
-	numberframesmade = 0
+    start = spread_t[0]
+    end = spread_t[1]
+    numberframesmade = 0
 
-	startx = 0
-	endx = 1920
-	starty = 0
-	endy = 1080
-	step = 1
+    startx = 0
+    endx = 1920
+    starty = 0
+    endy = 1080
+    step = 1
 
-	get_facetexts = True
-	saveim = False
-	boxbuffer = 70
+    get_facetexts = True
+    saveim = False
+    boxbuffer = 70
 
-	tary = 512
-	tarx = 1024
+    tary = 512
+    tarx = 1024
 
-	neck=0
-	headNose=18
-	rEye=19
-	rEar=20
-	lEye=21
-	lEar=22
+    neck=0
+    headNose=18
+    rEye=19
+    rEar=20
+    lEye=21
+    lEar=22
 
-	w_size = 7
-	pose_window = []
-	face_window = []
-	rhand_window = []
-	lhand_window = []
+    w_size = 7
+    pose_window = []
+    face_window = []
+    rhand_window = []
+    lhand_window = []
 
-	realframes_window = []
+    realframes_window = []
 
-	scaley = float(tary) / float(endy - starty)
-	scalex = float(tarx) / float(endx - startx)
+    scaley = float(tary) / float(endy - starty)
+    scalex = float(tarx) / float(endx - startx)
 
-	my_neighbors = 0
-	my_masks = 0
-	mygraphs = 0
-	posefaces = 0
-	print numkeypoints
-	if numkeypoints == 0:
-		my_neighbors, my_masks, mygraphs, posefaces = readinfacepts(dir_facepts, spread_m, numcompare=100000)
-		print "computed neighbors"
+    my_neighbors = 0
+    my_masks = 0
+    mygraphs = 0
+    posefaces = 0
+    print(numkeypoints)
+    if numkeypoints == 0:
+        my_neighbors, my_masks, mygraphs, posefaces = readinfacepts(dir_facepts, spread_m, numcompare=100000)
+        print("computed neighbors")
 
-	n = start
+    n = start
 
-	min_unset = True
-	skipped = 0
+    min_unset = True
+    skipped = 0
 
-	lastdiff = 0
-	lastscale = 0
+    lastdiff = 0
+    lastscale = 0
 
-	noneighbors = []
+    noneighbors = []
+    posepts_prev, facepts_prev, r_handpts_prev, l_handpts_prev = None, None, None, None
 
-	while n <= end:
-		print n
-		framesmadestr = '%06d' % numberframesmade
-		string_num = '%06d' % n
-		key_name = mypath + "/" + startname + string_num
-		framenum = '%06d' % n
-		frame_name = framesdir + '/' + startname + string_num + ".png"
+    frames = sorted(os.listdir(framesdir))
 
-		posepts = []
+    while n <= end:
+        print(n)
+        framesmadestr = '%06d' % numberframesmade
+    #   string_num = '%06d' % n
+    #   key_name = mypath + "/" + startname + string_num
+    #   framenum = '%06d' % n
+    #   frame_name = framesdir + '/' + startname + string_num + ".png"
 
-		### try yaml
-		posepts = readkeypointsfile(key_name + "_pose")
-		facepts = readkeypointsfile(key_name + "_face")
-		r_handpts = readkeypointsfile(key_name + "_hand_right")
-		l_handpts = readkeypointsfile(key_name + "_hand_left")
-		if posepts is None: ## try json
-			posepts, facepts, r_handpts, l_handpts = readkeypointsfile(key_name + "_keypoints")
-			if posepts is None:
-				print('unable to read keypoints file')
-				import sys
-				sys.exit(0)
+        filebase_name = os.path.splitext(frames[n])[0]
+                
+        key_name = os.path.join(mypath, filebase_name)
+        frame_name = os.path.join(framesdir, frames[n])
 
-		startcanvas = 255 * np.ones(myshape, dtype='uint8')
+        posepts = []
 
-		if len(posepts) != poselen:
-			print "EMPTY or more than one person"
-		else:
-			posepts = posepts[:poselen]
-			check_me = get_pose_stats(posepts)
+        ### try yaml
+        posepts = readkeypointsfile(key_name + "_pose")
+        facepts = readkeypointsfile(key_name + "_face")
+        r_handpts = readkeypointsfile(key_name + "_hand_right")
+        l_handpts = readkeypointsfile(key_name + "_hand_left")
+        if posepts is None: ## try json
+            posepts, facepts, r_handpts, l_handpts = readkeypointsfile(key_name + "_keypoints")
+            if posepts is None:
+                print('unable to read keypoints file')
+                import sys
+                sys.exit(0)
 
-			if (not check_me) and min_unset:
-				n += step
-				continue
-			if not check_me:
-				skipped += 1
-				diff = lastdiff
-				scale = lastscale
-				startcanvas = 255 * np.ones(myshape, dtype='uint8')
-				print key_name, 'my pose is not so good'
-			else:
-				height, min_tip_toe, max_tip_toe = check_me
-				diff, scale = calculate_translation(max_tip_toe, translation, scaleyy)
-				lastdiff = diff
-				lastscale = scale
-				# print diff, scale
-				startcanvas = 255 * np.ones(myshape, dtype='uint8')
-			if min_unset:
-				min_coords = get_min_point(posepts)
-				min_coords = (myshape[1]//2, min_coords[1])
-				# min_coords = (min_coords[1], min_coords[0])
-				print min_coords
-				min_unset = False
-				print 'setting min'
-			scaledcoords = (scale * min_coords[0], scale*min_coords[1])
-			translateback = (min_coords[0] - scaledcoords[0], min_coords[1] - scaledcoords[1] + diff)
+        startcanvas = 255 * np.ones(myshape, dtype='uint8')
+                
+        posepts = map_25_to_23(posepts)
 
-			posepts = apply_transformation(posepts, translateback, scale)
-			facepts = apply_transformation(facepts, translateback, scale)
-			r_handpts = apply_transformation(r_handpts, translateback, scale)
-			l_handpts = apply_transformation(l_handpts, translateback, scale)
+        if len(posepts) != poselen:
+            print("EMPTY or more than one person")
+            with open("tmp.txt", "a") as f_tmp:
+                f_tmp.write(key_name + " " + frame_name + "\n")
+            if posepts_prev is not None:
+                posepts, facepts, r_handpts, l_handpts = posepts_prev, facepts_prev, r_handpts_prev, l_handpts_prev
+            else:
+                n += step
+                continue
+        else:
+            posepts_prev, facepts_prev, r_handpts_prev, l_handpts_prev = posepts, facepts, r_handpts, l_handpts
+        if True:
+            posepts = posepts[:poselen]
+            check_me = get_pose_stats(posepts)
 
-			""" median """
+            if (not check_me) and min_unset:
+                n += step
+                continue
+            if not check_me:
+                skipped += 1
+                diff = lastdiff
+                scale = lastscale
+                startcanvas = 255 * np.ones(myshape, dtype='uint8')
+                print(key_name, 'my pose is not so good')
+            else:
+                height, min_tip_toe, max_tip_toe = check_me
+                diff, scale = calculate_translation(max_tip_toe, translation, scaleyy)
+                lastdiff = diff
+                lastscale = scale
+                # print diff, scale
+                startcanvas = 255 * np.ones(myshape, dtype='uint8')
+            if min_unset:
+                min_coords = get_min_point(posepts)
+                min_coords = (myshape[1]//2, min_coords[1])
+                # min_coords = (min_coords[1], min_coords[0])
+                print(min_coords)
+                min_unset = False
+                print('setting min')
+            scaledcoords = (scale * min_coords[0], scale*min_coords[1])
+            translateback = (min_coords[0] - scaledcoords[0], min_coords[1] - scaledcoords[1] + diff)
 
-			pose_window += [posepts]
-			face_window += [facepts]
-			rhand_window += [r_handpts]
-			lhand_window += [l_handpts]
+            posepts = apply_transformation(posepts, translateback, scale)
+            facepts = apply_transformation(facepts, translateback, scale)
+            r_handpts = apply_transformation(r_handpts, translateback, scale)
+            l_handpts = apply_transformation(l_handpts, translateback, scale)
 
-			if len(framesdir) > 0:
-				realframes_window += [frame_name]
+            """ median """
 
-			if len(pose_window) >= w_size:
-				h_span = w_size // 2
+            pose_window += [posepts]
+            face_window += [facepts]
+            rhand_window += [r_handpts]
+            lhand_window += [l_handpts]
 
-				med_posepts = getmedians_adapt(pose_window)
-				med_facepts = getmedians_adapt(face_window)
-				med_rhandpts = getmedians_adapt(rhand_window)
-				med_lhandpts = getmedians_adapt(lhand_window, printme=False)
+            if len(framesdir) > 0:
+                realframes_window += [frame_name]
 
-				canvas = renderpose(med_posepts, startcanvas)
-				canvas = renderface_sparse(med_facepts, canvas, numkeypoints)
-				canvas = renderhand(med_rhandpts, canvas)
-				canvas = renderhand(med_lhandpts, canvas)
+            if len(pose_window) >= w_size:
+                h_span = w_size // 2
 
-				canvas = canvas[starty:endy, startx:endx, [2,1,0]]
-				canvas = Image.fromarray(canvas)
+                med_posepts = getmedians_adapt(pose_window)
+                med_facepts = getmedians_adapt(face_window)
+                med_rhandpts = getmedians_adapt(rhand_window)
+                med_lhandpts = getmedians_adapt(lhand_window, printme=False)
 
-				canvas = canvas.resize((2*SIZE,SIZE), Image.ANTIALIAS)
-				canvas.save(savedir + '/test_label/frame' + framesmadestr + '.png')
+                canvas = renderpose(med_posepts, startcanvas)
+                canvas = renderface_sparse(med_facepts, canvas, numkeypoints)
+                canvas = renderhand(med_rhandpts, canvas)
+                canvas = renderhand(med_lhandpts, canvas)
 
-				if len(framesdir) > 0:
-					savethisframe = realframes_window[h_span]
-					if os.path.isfile(savethisframe):
-						shutil.copy2(savethisframe, savedir + '/test_img/frame' + framesmadestr + '.png') # complete target filename given
-						realframes_window = realframes_window[1:]
-					else:
-						print 'no frame at' + savethisframe
+                canvas = canvas[starty:endy, startx:endx, [2,1,0]]
+                canvas = Image.fromarray(canvas)
+
+                canvas = canvas.resize((2*SIZE,SIZE), Image.ANTIALIAS)
+                canvas.save(savedir + '/test_label/frame' + framesmadestr + '.png')
+
+                if len(framesdir) > 0:
+                    savethisframe = realframes_window[h_span]
+                    if os.path.isfile(savethisframe):
+                        shutil.copy2(savethisframe, savedir + '/test_img/frame' + framesmadestr + '.png') # complete target filename given
+                        realframes_window = realframes_window[1:]
+                    else:
+                        print('no frame at' + savethisframe)
 
 
-				pose_window = pose_window[1:]
-				face_window = face_window[1:]
-				rhand_window = rhand_window[1:]
-				lhand_window = lhand_window[1:]
+                pose_window = pose_window[1:]
+                face_window = face_window[1:]
+                rhand_window = rhand_window[1:]
+                lhand_window = lhand_window[1:]
 
-				if get_facetexts:
-					ave = aveface(med_posepts)
+                if get_facetexts:
+                    ave = aveface(med_posepts)
 
-					avex = ave[0]
-					avey = ave[1]
+                    avex = ave[0]
+                    avey = ave[1]
 
-					minx = int((max(avex - boxbuffer, startx) - startx) * scalex)
-					miny = int((max(avey - boxbuffer, starty) - starty) * scaley)
-					maxx = int((min(avex + boxbuffer, endx) - startx) * scalex)
-					maxy = int((min(avey + boxbuffer, endy) - starty) * scaley)
+                    minx = int((max(avex - boxbuffer, startx) - startx) * scalex)
+                    miny = int((max(avey - boxbuffer, starty) - starty) * scaley)
+                    maxx = int((min(avex + boxbuffer, endx) - startx) * scalex)
+                    maxy = int((min(avey + boxbuffer, endy) - starty) * scaley)
 
-					miny, maxy, minx, maxx = makebox128(miny, maxy, minx, maxx)
+                    miny, maxy, minx, maxx = makebox128(miny, maxy, minx, maxx)
 
-					""" SAVE FACE TEXTS HERE """
-					myfile = savedir + "/test_facetexts128/frame" + framesmadestr + '.txt'
-					F = open(myfile, "w")
-					F.write(str(miny) + " " + str(maxy) + " " + str(minx) + " " + str(maxx))
-					F.close()
+                    """ SAVE FACE TEXTS HERE """
+                    myfile = savedir + "/test_facetexts128/frame" + framesmadestr + '.txt'
+                    F = open(myfile, "w")
+                    F.write(str(miny) + " " + str(maxy) + " " + str(minx) + " " + str(maxx))
+                    F.close()
 
-					if saveim:
-							oriImg = canvas[miny:maxy, minx:maxx, :]
-							oriImg = Image.fromarray(oriImg)
-							oriImg.save(savedir + "/savefaces/frame" + framesmadestr + '.png')
+                    if saveim:
+                            oriImg = canvas[miny:maxy, minx:maxx, :]
+                            oriImg = Image.fromarray(oriImg)
+                            oriImg.save(savedir + "/savefaces/frame" + framesmadestr + '.png')
 
-				print numberframesmade
+                print(numberframesmade)
 
-				numberframesmade += 1
+                numberframesmade += 1
 
-		n += step
-	print "num skipped = " + str(skipped)
+        n += step
+    print("num skipped = " + str(skipped))
 
 opt = parser.parse_args()
 
@@ -405,8 +432,8 @@ spread_m = tuple(opt.target_spread)
 spread_t = tuple(opt.source_spread)
 
 if (len(spread_m) != 2) or (len(spread_t) != 2):
-	print("spread must ")
-	sys.exit(0)
+    print("spread must ")
+    sys.exit(0)
 
 startname= opt.filestart
 
@@ -432,74 +459,74 @@ scale = 1
 translation = 0
 """ Calculate Scale and Translation Here """
 if calculate_scale_and_translation:
-	#maxheight, mintoe, maxtoe, avemintoe, maxmintoe
-	t_height, t_mintoe, t_maxtoe, t_avemintoe, t_maxmintoe, t_median, t_tiptoes, t_tiptoe_to_height = get_keypoints_stats(source_keypoints, shape2, spread_t, startname=startname)
+    #maxheight, mintoe, maxtoe, avemintoe, maxmintoe
+    t_height, t_mintoe, t_maxtoe, t_avemintoe, t_maxmintoe, t_median, t_tiptoes, t_tiptoe_to_height = get_keypoints_stats(source_keypoints, shape2, spread_t, startname=startname)
 
-	m_height, m_mintoe, m_maxtoe, m_avemintoe, m_maxmintoe, m_median, m_tiptoes, m_tiptoe_to_height = get_keypoints_stats(target_keypoints, shape1, spread_m, startname=startname, stophere=5000)
+    m_height, m_mintoe, m_maxtoe, m_avemintoe, m_maxmintoe, m_median, m_tiptoes, m_tiptoe_to_height = get_keypoints_stats(target_keypoints, shape1, spread_m, startname=startname, stophere=5000)
 
-	m_tiptoefrommid = m_maxtoe - m_median
-	t_tiptoefrommid = t_maxtoe - t_median
+    m_tiptoefrommid = m_maxtoe - m_median
+    t_tiptoefrommid = t_maxtoe - t_median
 
-	print m_median
-	print t_median
+    print(m_median)
+    print(t_median)
 
-	m_distancetomid = -1*np.array(m_tiptoes) #median - tiptoes
-	m_distancetomid = m_distancetomid + m_median
-	m_inds = np.where((m_distancetomid > 0) & (m_distancetomid < m_mid_frac*m_tiptoefrommid) ) #want the biggest number > 0 but also < tiptoefrommid
-	m_abovemedian = m_distancetomid[m_inds]
-	m_biggestind = np.argmax(m_abovemedian)
-	m_horizon = (m_abovemedian[m_biggestind] -m_median) * -1
-	print m_horizon
+    m_distancetomid = -1*np.array(m_tiptoes) #median - tiptoes
+    m_distancetomid = m_distancetomid + m_median
+    m_inds = np.where((m_distancetomid > 0) & (m_distancetomid < m_mid_frac*m_tiptoefrommid) ) #want the biggest number > 0 but also < tiptoefrommid
+    m_abovemedian = m_distancetomid[m_inds]
+    m_biggestind = np.argmax(m_abovemedian)
+    m_horizon = (m_abovemedian[m_biggestind] -m_median) * -1
+    print(m_horizon)
 
-	t_distancetomid = -1*np.array(t_tiptoes) #median - tiptoes
-	t_distancetomid = t_distancetomid + t_median
-	t_inds = np.where((t_distancetomid > 0) & (t_distancetomid < t_mid_frac*t_tiptoefrommid) ) #want the biggest number > 0 but also < tiptoefrommid
-	t_abovemedian = t_distancetomid[t_inds]
-	t_biggestind = np.argmax(t_abovemedian)
-	t_horizon = (t_abovemedian[t_biggestind] -t_median) * -1
-	print t_horizon
+    t_distancetomid = -1*np.array(t_tiptoes) #median - tiptoes
+    t_distancetomid = t_distancetomid + t_median
+    t_inds = np.where((t_distancetomid > 0) & (t_distancetomid < t_mid_frac*t_tiptoefrommid) ) #want the biggest number > 0 but also < tiptoefrommid
+    t_abovemedian = t_distancetomid[t_inds]
+    t_biggestind = np.argmax(t_abovemedian)
+    t_horizon = (t_abovemedian[t_biggestind] -t_median) * -1
+    print(t_horizon)
 
-	scale = 1
-	translation = [(m_maxtoe, m_horizon), (t_maxtoe, t_horizon)]
+    scale = 1
+    translation = [(m_maxtoe, m_horizon), (t_maxtoe, t_horizon)]
 
-	if t_maxtoe - t_horizon < m_maxtoe - m_horizon:
-		print " small range "
-		m_middle = 0.5*(m_maxtoe + m_horizon)
-		t_half = 0.5*(t_maxtoe - t_horizon)
-		new_m_horizon = m_middle - t_half
-		new_m_maxtoe = m_middle + t_half
-		translation = [(new_m_maxtoe, new_m_horizon), (t_maxtoe, t_horizon)]
+    if t_maxtoe - t_horizon < m_maxtoe - m_horizon:
+        print(" small range ")
+        m_middle = 0.5*(m_maxtoe + m_horizon)
+        t_half = 0.5*(t_maxtoe - t_horizon)
+        new_m_horizon = m_middle - t_half
+        new_m_maxtoe = m_middle + t_half
+        translation = [(new_m_maxtoe, new_m_horizon), (t_maxtoe, t_horizon)]
 
-	scale = get_minmax_scales(m_tiptoe_to_height, t_tiptoe_to_height, translation, 0.05)
+    scale = get_minmax_scales(m_tiptoe_to_height, t_tiptoe_to_height, translation, 0.05)
 
-	""" SAVE FACE TEXTS HERE """
-	myfile = savedir + "/norm_params.txt"
-	F = open(myfile, "w")
-	F.truncate(0)
-	F.write(str(scale[0]) + " " + str(scale[1]) + "\n")
-	F.write(str(translation[0][0]) + " " + str(translation[0][1]) + " " + str(translation[1][0]) + " " + str(translation[1][1]))
-	F.close()
+    """ SAVE FACE TEXTS HERE """
+    myfile = savedir + "/norm_params.txt"
+    F = open(myfile, "w")
+    F.truncate(0)
+    F.write(str(scale[0]) + " " + str(scale[1]) + "\n")
+    F.write(str(translation[0][0]) + " " + str(translation[0][1]) + " " + str(translation[1][0]) + " " + str(translation[1][1]))
+    F.close()
 else:
-	norm_file = savedir + "/norm_params.txt"
-	if os.path.exists(norm_file):
-		with open(norm_file, 'rb') as f:
-			try:
-				line = f.readline()
-				print line
-				params = line.split(" ")
-				scale = (float(params[0]), float(params[1]))
-				line = f.readline()
-				print line
-				params = line.split(" ")
-				print params
-				translation = [(float(params[0]), float(params[1])), (float(params[2]), float(params[3]))]
-			except :
-				print('unable to extract scale, translation from ' + norm_file)
-				import sys
-				sys.exit(0)
+    norm_file = savedir + "/norm_params.txt"
+    if os.path.exists(norm_file):
+        with open(norm_file, 'rb') as f:
+            try:
+                line = f.readline()
+                print(line)
+                params = line.split(" ")
+                scale = (float(params[0]), float(params[1]))
+                line = f.readline()
+                print(line)
+                params = line.split(" ")
+                print(params)
+                translation = [(float(params[0]), float(params[1])), (float(params[2]), float(params[3]))]
+            except :
+                print('unable to extract scale, translation from ' + norm_file)
+                import sys
+                sys.exit(0)
 
-print "transformation:"
-print scale, translation
+print("transformation:")
+print(scale, translation)
 
 transform_interp(source_keypoints, scale, translation, shape1, savedir, \
-		spread_m, spread_t, "", framesdir, numkeypoints, startname)
+        spread_m, spread_t, "", framesdir, numkeypoints, startname)

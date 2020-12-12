@@ -70,12 +70,20 @@ for epoch in range(start_epoch, opt.niter + opt.niter_decay + 1):
             # calculate final loss scalar
             loss_D = (loss_dict['D_fake'] + loss_dict['D_real']) * 0.5 + (loss_dict['D_realface'] + loss_dict['D_fakeface']) * 0.5
             loss_G = loss_dict['G_GAN'] + loss_dict['G_GAN_Feat'] + loss_dict['G_VGG'] + loss_dict['G_GANface']
+            if opt.nce:
+                loss_G += loss_dict['NCE'] + loss_dict['NCE_Y']
 
+            if opt.nce and epoch == start_epoch and i == 0:
+                model.module.optimizer_F = torch.optim.Adam(model.module.netF.parameters(), lr=opt.lr, betas=(opt.beta1, 0.999))
             ############### Backward Pass ####################
             # update generator weights
             model.module.optimizer_G.zero_grad()
+            if opt.nce:
+                model.module.optimizer_F.zero_grad()
             loss_G.backward()
             model.module.optimizer_G.step()
+            if opt.nce:
+                model.module.optimizer_F.step()
 
             # update discriminator weights
             model.module.optimizer_D.zero_grad()
